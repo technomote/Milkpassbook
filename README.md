@@ -11,7 +11,7 @@
 
 You can download the app directly from this repository.
 
-[**Download APK**](app-production-release.apk)
+[**Download APK**](app-release.apk)
 
 ---
 
