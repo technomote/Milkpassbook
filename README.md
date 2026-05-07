@@ -7,6 +7,12 @@
 
 **Milk Passbook** is a precision-engineered Android application designed for dairy farmers to transform their traditional paper ledger into a high-performance digital ecosystem. Built with a focus on data integrity, visual intelligence, and local usability, it empowers farmers to track, analyze, and manage their milk production with professional-grade tools.
 
+## Download & Installation
+
+You can download the app directly from this repository.
+
+[**Download APK**](app-production-release.apk)
+
 ---
 
 ## 💎 Premium Features & Logic
